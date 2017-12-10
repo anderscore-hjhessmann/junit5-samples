@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;
 import static org.junit.jupiter.api.Assumptions.assumingThat;
 
-public class Sample04JUnit5Assumptions {
+public class Test04JUnit5Assumptions {
 
     @Test
     public void testShouldBeIgnored() {

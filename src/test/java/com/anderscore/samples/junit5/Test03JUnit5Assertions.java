@@ -8,7 +8,7 @@ import static java.time.Duration.ofMillis;
 import static java.time.Duration.ofSeconds;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class Sample03JUnit5Assertions {
+public class Test03JUnit5Assertions {
 
     @Test
     public void testTimeout() {

@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 @DisplayName("Beispiel für Jupiter Annotationen")
-public class Sample02JUnit5Test {
+public class Test02JUnit5 {
     private static int a;
     private int b;
 

@@ -5,7 +5,7 @@ import org.junit.experimental.categories.Category;
 
 import static org.junit.Assert.assertEquals;
 
-public class Sample02JUnit4Test {
+public class Test02JUnit4 {
 
     private static int a;
     private int b;
