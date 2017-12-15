@@ -1,10 +1,10 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample05;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Test07DefaultMethods implements LoggingInterface {
+public class TestDefaultMethods implements LoggingInterface {
 
     @Test
     public void testA() {
