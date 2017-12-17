@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5.sample09;
+package com.anderscore.samples.junit5.sample08;
 
 import org.junit.jupiter.api.extension.AfterTestExecutionCallback;
 import org.junit.jupiter.api.extension.BeforeTestExecutionCallback;
@@ -8,12 +8,12 @@ public class TimerExtension implements BeforeTestExecutionCallback, AfterTestExe
     private long start;
 
     @Override
-    public void beforeTestExecution(ExtensionContext extensionContext) throws Exception {
+    public void beforeTestExecution(ExtensionContext extensionContext) {
         start = System.currentTimeMillis();
     }
 
     @Override
-    public void afterTestExecution(ExtensionContext extensionContext) throws Exception {
+    public void afterTestExecution(ExtensionContext extensionContext) {
         System.out.println("Test " + extensionContext.getDisplayName()
                 + " needed " + (System.currentTimeMillis() - start) + " ms.");
     }

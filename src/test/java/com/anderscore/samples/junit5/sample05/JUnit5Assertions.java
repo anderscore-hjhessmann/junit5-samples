@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample05;
 
 import org.junit.jupiter.api.Test;
 
@@ -8,7 +8,7 @@ import static java.time.Duration.ofMillis;
 import static java.time.Duration.ofSeconds;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class Test03JUnit5Assertions {
+public class JUnit5Assertions {
 
     @Test
     public void testTimeout() {

@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample06;
 
 import org.junit.jupiter.api.Test;
 
@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;
 import static org.junit.jupiter.api.Assumptions.assumingThat;
 
-public class Test04JUnit5Assumptions {
+public class JUnit5Assumptions {
 
     @Test
     public void testShouldBeIgnored() {

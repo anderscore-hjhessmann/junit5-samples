@@ -1,7 +1,6 @@
-package com.anderscore.samples.junit5.sample05;
+package com.anderscore.samples.junit5.sample04;
 
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.TestInfo;
 

@@ -1,11 +1,11 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample02;
 
 import org.junit.*;
 import org.junit.experimental.categories.Category;
 
 import static org.junit.Assert.assertEquals;
 
-public class Test02JUnit4 {
+public class JUnit4Test {
 
     private static int a;
     private int b;

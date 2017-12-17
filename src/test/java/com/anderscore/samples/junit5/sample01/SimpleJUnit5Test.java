@@ -1,10 +1,10 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample01;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Test01SimpleJUnit5 {
+public class SimpleJUnit5Test {
 
     @Test
     public void testAdding() {

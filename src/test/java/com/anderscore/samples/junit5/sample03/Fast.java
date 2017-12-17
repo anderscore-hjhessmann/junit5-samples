@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample03;
 
 import org.junit.jupiter.api.Tag;
 

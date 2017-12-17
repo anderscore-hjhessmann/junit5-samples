@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5.sample09;
+package com.anderscore.samples.junit5.sample08;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

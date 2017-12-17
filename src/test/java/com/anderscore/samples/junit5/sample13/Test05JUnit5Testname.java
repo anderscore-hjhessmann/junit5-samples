@@ -1,9 +1,9 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample13;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInfo;
-import org.junit.jupiter.api.TestReporter;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class Test05JUnit5Testname {

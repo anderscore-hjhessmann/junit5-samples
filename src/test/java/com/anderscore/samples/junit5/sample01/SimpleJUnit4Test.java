@@ -1,10 +1,10 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample01;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class Test01SimpleJUnit4 {
+public class SimpleJUnit4Test {
 
     @Test
     public void testAdding() {

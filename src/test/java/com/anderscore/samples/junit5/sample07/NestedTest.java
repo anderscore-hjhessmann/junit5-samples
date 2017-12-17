@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5.sample08;
+package com.anderscore.samples.junit5.sample07;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;

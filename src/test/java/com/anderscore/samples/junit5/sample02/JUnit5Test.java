@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5;
+package com.anderscore.samples.junit5.sample02;
 
 import org.junit.jupiter.api.*;
 
@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 @DisplayName("Beispiel für Jupiter Annotationen")
-public class Test02JUnit5 {
+public class JUnit5Test {
     private static int a;
     private int b;
 
