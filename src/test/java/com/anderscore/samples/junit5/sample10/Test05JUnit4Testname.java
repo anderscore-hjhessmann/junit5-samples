@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5.sample13;
+package com.anderscore.samples.junit5.sample10;
 
 import org.junit.Rule;
 import org.junit.Test;

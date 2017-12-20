@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5.sample15;
+package com.anderscore.samples.junit5.sample14;
 
 import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.api.TestFactory;

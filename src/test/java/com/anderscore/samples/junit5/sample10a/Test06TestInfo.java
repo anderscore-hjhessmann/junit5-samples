@@ -1,4 +1,4 @@
-package com.anderscore.samples.junit5.sample13;
+package com.anderscore.samples.junit5.sample10a;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInfo;
