@@ -80,6 +80,13 @@
             <version>${junit.platform.version}</version>
             <scope>test</scope>
         </dependency>
+        <!-- Required to run JUnit5 tests in JUnit4 environment -->
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-runner</artifactId>
+            <version>${junit.platform.version}</version>
+            <scope>test</scope>
+        </dependency>
         <!-- Only required to run tests in an IDE that bundles an older version -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
